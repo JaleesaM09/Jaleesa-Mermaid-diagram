@@ -1,0 +1,7 @@
+
+flowchart td
+A[Bake Desserts] --> |Get ingredients| B (Mix Ingredients together)
+B --> C {Bake}
+C --> |One| D [Cool]
+C --> | Two | E [Cut]
+C --> | Three | F [Serve]
