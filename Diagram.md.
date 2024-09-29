@@ -1,4 +1,3 @@
-
 flowchart td
 A[Bake Desserts] --> |Get ingredients| B (Mix Ingredients together)
 B --> C {Bake}
